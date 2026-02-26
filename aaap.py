@@ -7,8 +7,7 @@ st.set_page_config(page_title="StatGuide: Asistente Estadístico", layout="wide"
 # Título y Contexto
 st.title("🌿 StatGuide: Asistente Estadístico")
 st.markdown("""
-Esta herramienta basada en lógica de decisión ayuda a los estudiantes de la **Maestría en Restauración de Paisajes Tropicales (UNL)** 
-a seleccionar el análisis estadístico y la visualización de datos adecuada para sus tesis.
+Esta herramienta basada en lógica de decisión ayuda a los estudiantes a seleccionar el análisis estadístico y la visualización de datos adecuada para sus tesis.
 """)
 
 # --- BARRA LATERAL: DIAGNÓSTICO ---
