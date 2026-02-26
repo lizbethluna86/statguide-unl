@@ -2,12 +2,12 @@ import streamlit as st
 import graphviz
 
 # Configuración de la página
-st.set_page_config(page_title="StatGuide: Asistente Estadístico", layout="wide")
+st.set_page_config(page_title="StatSOS: Asistente Estadístico", layout="wide")
 
 # Título y Contexto
-st.title("🌿 StatGuide: Asistente Estadístico")
+st.title("🌿 StatSOS: Asistente Estadístico")
 st.markdown("""
-Esta herramienta basada en lógica de decisión ayuda a los estudiantes a seleccionar el análisis estadístico y la visualización de datos adecuada para sus tesis.
+Esta herramienta basada en lógica de decisión está pensada para ayudarte a seleccionar el análisis estadístico y la visualización de datos adecuada tu trabajo de investigación.
 """)
 
 # --- BARRA LATERAL: DIAGNÓSTICO ---
