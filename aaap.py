@@ -2,7 +2,7 @@ import streamlit as st
 import graphviz
 
 # Configuración de la página
-st.set_page_config(page_title="StatGuide: Restauración UNL", layout="wide")
+st.set_page_config(page_title="StatGuide: Asistente Estadístico", layout="wide")
 
 # Título y Contexto
 st.title("🌿 StatGuide: Asistente Estadístico para Restauración de Paisajes")
